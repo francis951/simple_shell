@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "script.h"
 
 /**
  * add_node - adds a node to the start of the list

@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "script.h"
 
 /**
  *_eputs - prints an input string
