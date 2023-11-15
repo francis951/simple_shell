@@ -1,4 +1,4 @@
-#include "script.h"
+#include "shell.h"
 
 /**
  * hsh - main shell loop
