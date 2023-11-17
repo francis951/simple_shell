@@ -8,7 +8,7 @@
  */
 void _eputs(char *str)
 {
-	int i = 0;
+	char i = 0;
 
 	if (!str)
 		return;
